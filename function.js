@@ -17,5 +17,6 @@ Author.prototype.addBook = function (book) {
     this.book.push(book);
 }
 
+//create author and books object 
 
 
